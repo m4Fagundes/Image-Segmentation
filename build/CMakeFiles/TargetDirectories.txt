@@ -1,0 +1,3 @@
+C:/Users/mathe/OneDrive/Documentos/Image Segmentation/build/CMakeFiles/segmenter.dir
+C:/Users/mathe/OneDrive/Documentos/Image Segmentation/build/CMakeFiles/edit_cache.dir
+C:/Users/mathe/OneDrive/Documentos/Image Segmentation/build/CMakeFiles/rebuild_cache.dir
