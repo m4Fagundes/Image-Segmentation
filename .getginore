@@ -1,0 +1,25 @@
+# Arquivos e pastas de compilação do CMake
+/build/
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.out
+
+# Arquivos gerados pelo sistema
+*.DS_Store
+*~
+*.swp
+
+# Pastas de resultados
+/results/
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Arquivos de log
+*.log
