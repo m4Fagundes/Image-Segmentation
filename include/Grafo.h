@@ -3,10 +3,9 @@
 
 #include <vector>
 #include <list>
-#include "Imagem.h" // Incluir Imagem.h
-#include "UnionFind.h" // Incluir UnionFind.h
+#include "Imagem.h"
+#include "UnionFind.h"
 
-// ... (struct Aresta existente) ...
 struct Aresta {
     int destino;
     double peso;
@@ -24,12 +23,10 @@ struct ArestaPonderada {
 
 class Grafo {
 public:
-    // ... (Construtor e métodos antigos) ...
     Grafo(int numVertices);
     void adicionarAresta(int u, int v, double peso); // Pode ser removido futuramente
     int getNumVertices() const;
 
-    // --------- Novo método para o Épico 2 ---------
     UnionFind segmentarFelzenszwalb(const Imagem& img, float k);
 
 
@@ -39,4 +36,4 @@ private:
     std::vector<std::list<Aresta>> adj;
 };
 
-#endif // GRAFO_H
+#endif

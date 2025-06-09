@@ -32,7 +32,6 @@ bool Imagem::salvar(const std::string& caminho) {
         std::cerr << "Nenhum dado de imagem para salvar." << std::endl;
         return false;
     }
-    // Salva como PNG
     return stbi_write_png(caminho.c_str(), largura, altura, canais, dados, largura * canais);
 }
 
