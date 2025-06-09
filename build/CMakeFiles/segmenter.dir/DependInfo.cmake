@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/mathe/OneDrive/Documentos/Image Segmentation/src/Grafo.cpp" "CMakeFiles/segmenter.dir/src/Grafo.cpp.obj" "gcc" "CMakeFiles/segmenter.dir/src/Grafo.cpp.obj.d"
   "C:/Users/mathe/OneDrive/Documentos/Image Segmentation/src/Imagem.cpp" "CMakeFiles/segmenter.dir/src/Imagem.cpp.obj" "gcc" "CMakeFiles/segmenter.dir/src/Imagem.cpp.obj.d"
+  "C:/Users/mathe/OneDrive/Documentos/Image Segmentation/src/UnionFind.cpp" "CMakeFiles/segmenter.dir/src/UnionFind.cpp.obj" "gcc" "CMakeFiles/segmenter.dir/src/UnionFind.cpp.obj.d"
   "C:/Users/mathe/OneDrive/Documentos/Image Segmentation/src/main.cpp" "CMakeFiles/segmenter.dir/src/main.cpp.obj" "gcc" "CMakeFiles/segmenter.dir/src/main.cpp.obj.d"
   )
 

@@ -3,30 +3,40 @@
 
 #include <vector>
 #include <list>
+#include "Imagem.h" // Incluir Imagem.h
+#include "UnionFind.h" // Incluir UnionFind.h
 
-// Estrutura para representar uma aresta com peso
+// ... (struct Aresta existente) ...
 struct Aresta {
     int destino;
     double peso;
 };
 
+struct ArestaPonderada {
+    int u, v;
+    double peso;
+
+    bool operator<(const ArestaPonderada& outra) const {
+        return peso < outra.peso;
+    }
+};
+
+
 class Grafo {
 public:
-    // Construtor que inicializa um grafo com um número de vértices
+    // ... (Construtor e métodos antigos) ...
     Grafo(int numVertices);
-
-    // Adiciona uma aresta bidirecional entre u e v com um peso
-    void adicionarAresta(int u, int v, double peso);
-
-    // Retorna a lista de adjacência de um vértice específico
-    const std::list<Aresta>& getVizinhos(int v) const;
-
-    // Retorna o número total de vértices
+    void adicionarAresta(int u, int v, double peso); // Pode ser removido futuramente
     int getNumVertices() const;
 
+    // --------- Novo método para o Épico 2 ---------
+    UnionFind segmentarFelzenszwalb(const Imagem& img, float k);
+
+
 private:
-    int V; // Número de vértices
-    std::vector<std::list<Aresta>> adj; // Lista de adjacência
+    int V;
+    // A lista de adjacência não será usada por este algoritmo, mas mantemos por enquanto.
+    std::vector<std::list<Aresta>> adj;
 };
 
 #endif // GRAFO_H

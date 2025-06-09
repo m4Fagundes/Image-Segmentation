@@ -100,16 +100,40 @@ CMakeFiles/segmenter.dir/src/main.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ostream.tcc \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\istream.tcc \
- C:/Users/mathe/OneDrive/DOCUME~1/Image\ Segmentation/include/Imagem.h \
- C:/Users/mathe/OneDrive/DOCUME~1/Image\ Segmentation/include/Grafo.h \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\map \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_tree.h \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ext\aligned_buffer.h \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_map.h \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\tuple \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\utility \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_relops.h \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\array \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\uses_allocator.h \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_multimap.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\vector \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_construct.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_uninitialized.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_vector.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_bvector.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\vector.tcc \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\random \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\cmath c:\mingw\include\math.h \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\limits \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\random.h \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\uniform_int_dist.h \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\opt_random.h \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\random.tcc \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\numeric \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_numeric.h \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ctime c:\mingw\include\time.h \
+ C:/Users/mathe/OneDrive/DOCUME~1/Image\ Segmentation/include/Imagem.h \
+ C:/Users/mathe/OneDrive/DOCUME~1/Image\ Segmentation/include/Grafo.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\list \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_list.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\allocated_ptr.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ext\aligned_buffer.h \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\list.tcc
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\list.tcc \
+ C:/Users/mathe/OneDrive/DOCUME~1/Image\ Segmentation/include/Imagem.h \
+ C:/Users/mathe/OneDrive/DOCUME~1/Image\ Segmentation/include/UnionFind.h \
+ C:/Users/mathe/OneDrive/DOCUME~1/Image\ Segmentation/include/UnionFind.h \
+ C:/Users/mathe/OneDrive/DOCUME~1/Image\ Segmentation/vendor/stb_image_write.h \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\stdlib.h

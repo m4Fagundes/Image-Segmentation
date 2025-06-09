@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/segmenter.dir/src/Grafo.cpp.obj.d"
   "CMakeFiles/segmenter.dir/src/Imagem.cpp.obj"
   "CMakeFiles/segmenter.dir/src/Imagem.cpp.obj.d"
+  "CMakeFiles/segmenter.dir/src/UnionFind.cpp.obj"
+  "CMakeFiles/segmenter.dir/src/UnionFind.cpp.obj.d"
   "CMakeFiles/segmenter.dir/src/main.cpp.obj"
   "CMakeFiles/segmenter.dir/src/main.cpp.obj.d"
   "libsegmenter.dll.a"

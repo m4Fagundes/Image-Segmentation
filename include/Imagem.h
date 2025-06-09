@@ -5,14 +5,11 @@
 
 class Imagem {
 public:
-    // Construtor e Destrutor
     Imagem();
     ~Imagem();
 
-    // Carrega uma imagem de um arquivo
     bool carregar(const std::string& caminho);
 
-    // Salva a imagem em um arquivo
     bool salvar(const std::string& caminho);
 
     // Getters
@@ -30,4 +27,4 @@ private:
     unsigned char* dados; // Ponteiro para os dados dos pixels
 };
 
-#endif // IMAGEM_H
+#endif

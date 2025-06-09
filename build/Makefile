@@ -176,6 +176,30 @@ src/Imagem.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\segmenter.dir\build.make CMakeFiles/segmenter.dir/src/Imagem.cpp.s
 .PHONY : src/Imagem.cpp.s
 
+src/UnionFind.obj: src/UnionFind.cpp.obj
+.PHONY : src/UnionFind.obj
+
+# target to build an object file
+src/UnionFind.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\segmenter.dir\build.make CMakeFiles/segmenter.dir/src/UnionFind.cpp.obj
+.PHONY : src/UnionFind.cpp.obj
+
+src/UnionFind.i: src/UnionFind.cpp.i
+.PHONY : src/UnionFind.i
+
+# target to preprocess a source file
+src/UnionFind.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\segmenter.dir\build.make CMakeFiles/segmenter.dir/src/UnionFind.cpp.i
+.PHONY : src/UnionFind.cpp.i
+
+src/UnionFind.s: src/UnionFind.cpp.s
+.PHONY : src/UnionFind.s
+
+# target to generate assembly for a file
+src/UnionFind.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\segmenter.dir\build.make CMakeFiles/segmenter.dir/src/UnionFind.cpp.s
+.PHONY : src/UnionFind.cpp.s
+
 src/main.obj: src/main.cpp.obj
 .PHONY : src/main.obj
 
@@ -215,6 +239,9 @@ help:
 	@echo ... src/Imagem.obj
 	@echo ... src/Imagem.i
 	@echo ... src/Imagem.s
+	@echo ... src/UnionFind.obj
+	@echo ... src/UnionFind.i
+	@echo ... src/UnionFind.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s

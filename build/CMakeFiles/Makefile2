@@ -84,12 +84,12 @@ clean: CMakeFiles/segmenter.dir/clean
 CMakeFiles/segmenter.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\segmenter.dir\build.make CMakeFiles/segmenter.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\segmenter.dir\build.make CMakeFiles/segmenter.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\mathe\OneDrive\Documentos\Image Segmentation\build\CMakeFiles" --progress-num=1,2,3,4 "Built target segmenter"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\mathe\OneDrive\Documentos\Image Segmentation\build\CMakeFiles" --progress-num=1,2,3,4,5 "Built target segmenter"
 .PHONY : CMakeFiles/segmenter.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/segmenter.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\build\CMakeFiles" 4
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\build\CMakeFiles" 5
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/segmenter.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\build\CMakeFiles" 0
 .PHONY : CMakeFiles/segmenter.dir/rule
@@ -101,7 +101,7 @@ segmenter: CMakeFiles/segmenter.dir/rule
 # codegen rule for target.
 CMakeFiles/segmenter.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\segmenter.dir\build.make CMakeFiles/segmenter.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\mathe\OneDrive\Documentos\Image Segmentation\build\CMakeFiles" --progress-num=1,2,3,4 "Finished codegen for target segmenter"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\mathe\OneDrive\Documentos\Image Segmentation\build\CMakeFiles" --progress-num=1,2,3,4,5 "Finished codegen for target segmenter"
 .PHONY : CMakeFiles/segmenter.dir/codegen
 
 # clean rule for target.
