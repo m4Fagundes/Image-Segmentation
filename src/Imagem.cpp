@@ -1,7 +1,6 @@
 #include "Imagem.h"
 #include <iostream>
 
-// Define as implementações do STB aqui, ANTES de incluir os headers
 #define STB_IMAGE_IMPLEMENTATION
 #include "stb_image.h"
 #define STB_IMAGE_WRITE_IMPLEMENTATION

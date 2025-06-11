@@ -12,7 +12,6 @@ public:
 
     bool salvar(const std::string& caminho);
 
-    // Getters
     int getLargura() const;
     int getAltura() const;
     int getCanais() const;
