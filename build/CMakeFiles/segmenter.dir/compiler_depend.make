@@ -40,6 +40,7 @@ CMakeFiles/segmenter.dir/src/Grafo.cpp.obj: C:/Users/mathe/OneDrive/Documentos/I
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/concept_check.h \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/cpp_type_traits.h \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/cxxabi_forced.h \
+  c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/deque.tcc \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/exception_defines.h \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/exception_ptr.h \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/functexcept.h \
@@ -66,6 +67,7 @@ CMakeFiles/segmenter.dir/src/Grafo.cpp.obj: C:/Users/mathe/OneDrive/Documentos/I
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_algobase.h \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_bvector.h \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_construct.h \
+  c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_deque.h \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_function.h \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_heap.h \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_iterator.h \
@@ -73,6 +75,7 @@ CMakeFiles/segmenter.dir/src/Grafo.cpp.obj: C:/Users/mathe/OneDrive/Documentos/I
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_iterator_base_types.h \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_list.h \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_pair.h \
+  c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_queue.h \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_relops.h \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_tempbuf.h \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_uninitialized.h \
@@ -81,6 +84,7 @@ CMakeFiles/segmenter.dir/src/Grafo.cpp.obj: C:/Users/mathe/OneDrive/Documentos/I
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/streambuf_iterator.h \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stringfwd.h \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/uniform_int_dist.h \
+  c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/uses_allocator.h \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/vector.tcc \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/cctype \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/cerrno \
@@ -93,6 +97,7 @@ CMakeFiles/segmenter.dir/src/Grafo.cpp.obj: C:/Users/mathe/OneDrive/Documentos/I
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/cwctype \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/debug/assertions.h \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/debug/debug.h \
+  c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/deque \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/exception \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/ext/aligned_buffer.h \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/ext/alloc_traits.h \
@@ -121,6 +126,7 @@ CMakeFiles/segmenter.dir/src/Grafo.cpp.obj: C:/Users/mathe/OneDrive/Documentos/I
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/mingw32/bits/os_defines.h \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/new \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/ostream \
+  c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/queue \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/stdexcept \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/streambuf \
   c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/string \
@@ -468,6 +474,8 @@ c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/ptr_traits.h:
 
 c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/exception_defines.h:
 
+c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/deque.tcc:
+
 c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/exception:
 
 c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/cpp_type_traits.h:
@@ -479,8 +487,6 @@ c:/mingw/include/wctype.h:
 c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/map:
 
 c:/mingw/include/errno.h:
-
-c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_construct.h:
 
 c:/mingw/include/io.h:
 
@@ -586,6 +592,10 @@ c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_algobase.h:
 
 c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_bvector.h:
 
+c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_construct.h:
+
+c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_deque.h:
+
 c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_function.h:
 
 c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_heap.h:
@@ -599,6 +609,8 @@ c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_iterator_base_types.h:
 c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_list.h:
 
 c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_pair.h:
+
+c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_queue.h:
 
 c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_relops.h:
 
@@ -617,6 +629,8 @@ c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/streambuf.tcc:
 c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/streambuf_iterator.h:
 
 c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/uniform_int_dist.h:
+
+c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/uses_allocator.h:
 
 c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/cctype:
 
@@ -639,6 +653,8 @@ c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/cwchar:
 c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/cwctype:
 
 c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/debug/assertions.h:
+
+c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/deque:
 
 c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/ext/aligned_buffer.h:
 
@@ -685,6 +701,8 @@ c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/mingw32/bits/os_defines.h:
 c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/new:
 
 c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/ostream:
+
+c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/queue:
 
 c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/stdexcept:
 
@@ -735,8 +753,6 @@ c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_multimap.h:
 c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_numeric.h:
 
 c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_tree.h:
-
-c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/bits/uses_allocator.h:
 
 c:/mingw/lib/gcc/mingw32/6.3.0/include/c++/ctime:
 
