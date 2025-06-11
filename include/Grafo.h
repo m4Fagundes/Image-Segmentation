@@ -5,7 +5,6 @@
 #include <list>
 #include "Imagem.h"
 #include "UnionFind.h"
-
 struct Aresta {
     int destino;
     double peso;
@@ -24,15 +23,16 @@ struct ArestaPonderada {
 class Grafo {
 public:
     Grafo(int numVertices);
-    void adicionarAresta(int u, int v, double peso); // Pode ser removido futuramente
     int getNumVertices() const;
-
+    
+    // Algoritmo 1: Baseado em AMG
     UnionFind segmentarFelzenszwalb(const Imagem& img, float k);
+    // Algoritmo 2: Baseado em Caminho Mínimo (IFT)
+    std::vector<int> segmentarIFT(const Imagem& img, const std::vector<int>& sementes);
 
 
 private:
-    int V;
-    // A lista de adjacência não será usada por este algoritmo, mas mantemos por enquanto.
+    int V; // Número de vértices (pixels)
     std::vector<std::list<Aresta>> adj;
 };
 
