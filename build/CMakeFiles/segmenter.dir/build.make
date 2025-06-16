@@ -76,60 +76,60 @@ CMakeFiles/segmenter.dir/src/Grafo.cpp.obj: CMakeFiles/segmenter.dir/includes_CX
 CMakeFiles/segmenter.dir/src/Grafo.cpp.obj: C:/Users/mathe/OneDrive/Documentos/Image\ Segmentation/src/Grafo.cpp
 CMakeFiles/segmenter.dir/src/Grafo.cpp.obj: CMakeFiles/segmenter.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\mathe\OneDrive\Documentos\Image Segmentation\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/segmenter.dir/src/Grafo.cpp.obj"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/segmenter.dir/src/Grafo.cpp.obj -MF CMakeFiles\segmenter.dir\src\Grafo.cpp.obj.d -o CMakeFiles\segmenter.dir\src\Grafo.cpp.obj -c "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\src\Grafo.cpp"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/segmenter.dir/src/Grafo.cpp.obj -MF CMakeFiles\segmenter.dir\src\Grafo.cpp.obj.d -o CMakeFiles\segmenter.dir\src\Grafo.cpp.obj -c "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\src\Grafo.cpp"
 
 CMakeFiles/segmenter.dir/src/Grafo.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/segmenter.dir/src/Grafo.cpp.i"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\src\Grafo.cpp" > CMakeFiles\segmenter.dir\src\Grafo.cpp.i
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\src\Grafo.cpp" > CMakeFiles\segmenter.dir\src\Grafo.cpp.i
 
 CMakeFiles/segmenter.dir/src/Grafo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/segmenter.dir/src/Grafo.cpp.s"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\src\Grafo.cpp" -o CMakeFiles\segmenter.dir\src\Grafo.cpp.s
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\src\Grafo.cpp" -o CMakeFiles\segmenter.dir\src\Grafo.cpp.s
 
 CMakeFiles/segmenter.dir/src/Imagem.cpp.obj: CMakeFiles/segmenter.dir/flags.make
 CMakeFiles/segmenter.dir/src/Imagem.cpp.obj: CMakeFiles/segmenter.dir/includes_CXX.rsp
 CMakeFiles/segmenter.dir/src/Imagem.cpp.obj: C:/Users/mathe/OneDrive/Documentos/Image\ Segmentation/src/Imagem.cpp
 CMakeFiles/segmenter.dir/src/Imagem.cpp.obj: CMakeFiles/segmenter.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\mathe\OneDrive\Documentos\Image Segmentation\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/segmenter.dir/src/Imagem.cpp.obj"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/segmenter.dir/src/Imagem.cpp.obj -MF CMakeFiles\segmenter.dir\src\Imagem.cpp.obj.d -o CMakeFiles\segmenter.dir\src\Imagem.cpp.obj -c "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\src\Imagem.cpp"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/segmenter.dir/src/Imagem.cpp.obj -MF CMakeFiles\segmenter.dir\src\Imagem.cpp.obj.d -o CMakeFiles\segmenter.dir\src\Imagem.cpp.obj -c "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\src\Imagem.cpp"
 
 CMakeFiles/segmenter.dir/src/Imagem.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/segmenter.dir/src/Imagem.cpp.i"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\src\Imagem.cpp" > CMakeFiles\segmenter.dir\src\Imagem.cpp.i
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\src\Imagem.cpp" > CMakeFiles\segmenter.dir\src\Imagem.cpp.i
 
 CMakeFiles/segmenter.dir/src/Imagem.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/segmenter.dir/src/Imagem.cpp.s"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\src\Imagem.cpp" -o CMakeFiles\segmenter.dir\src\Imagem.cpp.s
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\src\Imagem.cpp" -o CMakeFiles\segmenter.dir\src\Imagem.cpp.s
 
 CMakeFiles/segmenter.dir/src/UnionFind.cpp.obj: CMakeFiles/segmenter.dir/flags.make
 CMakeFiles/segmenter.dir/src/UnionFind.cpp.obj: CMakeFiles/segmenter.dir/includes_CXX.rsp
 CMakeFiles/segmenter.dir/src/UnionFind.cpp.obj: C:/Users/mathe/OneDrive/Documentos/Image\ Segmentation/src/UnionFind.cpp
 CMakeFiles/segmenter.dir/src/UnionFind.cpp.obj: CMakeFiles/segmenter.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\mathe\OneDrive\Documentos\Image Segmentation\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/segmenter.dir/src/UnionFind.cpp.obj"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/segmenter.dir/src/UnionFind.cpp.obj -MF CMakeFiles\segmenter.dir\src\UnionFind.cpp.obj.d -o CMakeFiles\segmenter.dir\src\UnionFind.cpp.obj -c "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\src\UnionFind.cpp"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/segmenter.dir/src/UnionFind.cpp.obj -MF CMakeFiles\segmenter.dir\src\UnionFind.cpp.obj.d -o CMakeFiles\segmenter.dir\src\UnionFind.cpp.obj -c "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\src\UnionFind.cpp"
 
 CMakeFiles/segmenter.dir/src/UnionFind.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/segmenter.dir/src/UnionFind.cpp.i"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\src\UnionFind.cpp" > CMakeFiles\segmenter.dir\src\UnionFind.cpp.i
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\src\UnionFind.cpp" > CMakeFiles\segmenter.dir\src\UnionFind.cpp.i
 
 CMakeFiles/segmenter.dir/src/UnionFind.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/segmenter.dir/src/UnionFind.cpp.s"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\src\UnionFind.cpp" -o CMakeFiles\segmenter.dir\src\UnionFind.cpp.s
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\src\UnionFind.cpp" -o CMakeFiles\segmenter.dir\src\UnionFind.cpp.s
 
 CMakeFiles/segmenter.dir/src/main.cpp.obj: CMakeFiles/segmenter.dir/flags.make
 CMakeFiles/segmenter.dir/src/main.cpp.obj: CMakeFiles/segmenter.dir/includes_CXX.rsp
 CMakeFiles/segmenter.dir/src/main.cpp.obj: C:/Users/mathe/OneDrive/Documentos/Image\ Segmentation/src/main.cpp
 CMakeFiles/segmenter.dir/src/main.cpp.obj: CMakeFiles/segmenter.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\mathe\OneDrive\Documentos\Image Segmentation\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/segmenter.dir/src/main.cpp.obj"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/segmenter.dir/src/main.cpp.obj -MF CMakeFiles\segmenter.dir\src\main.cpp.obj.d -o CMakeFiles\segmenter.dir\src\main.cpp.obj -c "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\src\main.cpp"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/segmenter.dir/src/main.cpp.obj -MF CMakeFiles\segmenter.dir\src\main.cpp.obj.d -o CMakeFiles\segmenter.dir\src\main.cpp.obj -c "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\src\main.cpp"
 
 CMakeFiles/segmenter.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/segmenter.dir/src/main.cpp.i"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\src\main.cpp" > CMakeFiles\segmenter.dir\src\main.cpp.i
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\src\main.cpp" > CMakeFiles\segmenter.dir\src\main.cpp.i
 
 CMakeFiles/segmenter.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/segmenter.dir/src/main.cpp.s"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\src\main.cpp" -o CMakeFiles\segmenter.dir\src\main.cpp.s
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\mathe\OneDrive\Documentos\Image Segmentation\src\main.cpp" -o CMakeFiles\segmenter.dir\src\main.cpp.s
 
 # Object files for target segmenter
 segmenter_OBJECTS = \
